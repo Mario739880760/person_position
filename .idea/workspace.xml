@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="7a0671d0-0292-411e-a536-ae3d3b7a61e4" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../vue.config.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/app.f726aa99.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/chunk-vendors.6dc57fe0.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/favicon.ico" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/bj.a474110e.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/icon-1.7e887da1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/icon-10.9f30df10.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/icon-11.ce3c899a.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/icon-12.8ad1da8d.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/icon-13.e66af562.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/icon-left.07195d87.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/icon-mid.6fd4e12d.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/icon-title1.1c1c65c1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/title.c5e0d8af.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/app.75111422.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/app.75111422.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/chunk-vendors.9d33eb27.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/chunk-vendors.9d33eb27.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tunnel2.json" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="1spHIW4oBfwjiwL1UasI5N5o0sW" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7a0671d0-0292-411e-a536-ae3d3b7a61e4" name="Default Changelist" comment="" />
+      <created>1621562530295</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1621562530295</updated>
+      <workItem from="1621562531383" duration="306000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
